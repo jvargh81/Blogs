@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jerrin&#39;s BLog</title>
-    <link>https://jerrinvarghese.netlify.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Jerrin&#39;s BLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <copyright>&amp;copy;2016 YJerrin Joe Varghese</copyright>
     
-	<atom:link href="https://jerrinvarghese.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>https://jerrinvarghese.netlify.com/categories/code/</link>
+      <link>/categories/code/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://jerrinvarghese.netlify.com/categories/code/</guid>
+      <guid>/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>https://jerrinvarghese.netlify.com/categories/design/</link>
+      <link>/categories/design/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://jerrinvarghese.netlify.com/categories/design/</guid>
+      <guid>/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://jerrinvarghese.netlify.com/categories/photography/</link>
+      <link>/categories/photography/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://jerrinvarghese.netlify.com/categories/photography/</guid>
+      <guid>/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://jerrinvarghese.netlify.com/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://jerrinvarghese.netlify.com/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://jerrinvarghese.netlify.com/categories/travel/</link>
+      <link>/categories/travel/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://jerrinvarghese.netlify.com/categories/travel/</guid>
+      <guid>/categories/travel/</guid>
       <description></description>
     </item>
     

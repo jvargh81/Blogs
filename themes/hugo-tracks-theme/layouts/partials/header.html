@@ -8,11 +8,8 @@
   </div>
   <div class="col-md-6">
     <div class="menu">
-      <a href="/">Home /</a>
+      <a href="/">Home</a>
       {{ range $name, $taxonomy := .Site.Sections }}
-      {{ if ne $name "post" }}
-      <a href="/{{ $name | urlize }}">{{ $name }} / </a>
-      {{ end }}
       {{ end }}
     </div>
   </div>

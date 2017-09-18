@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2016 YJerrin Joe Varghese"
   sidebarAbout = [
     "I am a creative illustrator and graphic designer with more than 10 years of experience.",
     "Originally from Toronto, currently based in London."
@@ -45,11 +45,11 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/jerrin.j.varghese/"
+  googleplus    = "https://plus.google.com/u/0/"
+  email         = "jerrin.fall2017@gmail.com"
+  twitter       = "https://twitter.com/JERRINJOE/"
+  linkedin      = "https://www.linkedin.com/in/jerrin-joe-varghese-101302149/"
+  stackoverflow = "https://stackoverflow.com/users/story/8628386/"
+  instagram     = "https://www.instagram.com/jerrinjoe/?hl=en"
+  github        = "https://github.com/jvargh81/"
