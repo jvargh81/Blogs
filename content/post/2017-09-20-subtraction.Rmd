@@ -1,0 +1,18 @@
+---
+title: Subtraction
+author: Jerrin Varghese
+date: '2017-09-20'
+image: "img/portfolio/pic3.jpg"
+slug: subtraction
+categories: 
+    - Mathematics
+tags: 
+    - Subtraction
+---
+
+Let,s Do some Subtraction : 
+```{r}
+x<-10
+y<-11
+x-y
+```

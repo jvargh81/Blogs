@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jerrin&#39;s BLog</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Jerrin&#39;s BLog</description>
+    <title>Addition on Jerrin&#39;s BLog</title>
+    <link>/tags/addition/</link>
+    <description>Recent content in Addition on Jerrin&#39;s BLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 YJerrin Joe Varghese</copyright>
     <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/addition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>/post/new-post/</guid>
       <description>Let,s Do some Addition :
 x&amp;lt;-10 y&amp;lt;-11 x+y ## [1] 21 </description>
-    </item>
-    
-    <item>
-      <title>Subtraction</title>
-      <link>/post/subtraction/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/subtraction/</guid>
-      <description>Let,s Do some Subtraction :
-x&amp;lt;-10 y&amp;lt;-11 x-y ## [1] -1 </description>
     </item>
     
   </channel>

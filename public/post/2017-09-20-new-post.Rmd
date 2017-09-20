@@ -1,0 +1,18 @@
+---
+title: New Post
+author: Jerrin Varghese
+date: '2017-09-20'
+slug: new-post
+categories: 
+    - Mathematics
+tags: 
+    - Addition
+---
+
+Let,s Do some Addition : 
+```{r}
+x<-10
+y<-11
+x+y
+```
+
